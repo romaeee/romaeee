@@ -1,0 +1,14 @@
+from selenium import webdriver
+
+url = 'https:'
+
+def main():
+  browser.get(url)
+  mail = browser.find_element_by_class_name('home-link')
+  mail.click()
+  elem = browser.find_element_by_class_name('input__control')
+  elem.send_keys("some text")
+  browser.close()
+  
+if __name__ == "__main__":
+  main()
