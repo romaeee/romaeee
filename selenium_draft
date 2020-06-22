@@ -1,5 +1,6 @@
 from selenium import webdriver
 
+browser = webdriver.Firefox(executable_path='/Users/{user}/Downloads/geckodriver')
 url = 'https:'
 
 def main():
