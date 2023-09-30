@@ -7,7 +7,10 @@
 Hello! My name is Roman aka Gulbrandr. Here are a few more things...
 
 # 📬 Connect With Me 
-YouTube Twitter LinkedIn Instagram  
+[YouTube](https://www.youtube.com/yourusername)
+[Twitter](https://twitter.com/gulbrandr1)
+[LinkedIn](https://www.linkedin.com/in/roman-gerkin-86ab1a266)
+[Instagram](https://www.instagram.com/yourusername)
 
 # ⚙️ Programming Languages 
 C# Python Dart HTML CSS
