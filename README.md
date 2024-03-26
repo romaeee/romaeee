@@ -16,7 +16,7 @@ Hello! My name is Roman aka Gulbrandr. Here are a few more things...
 C# Python Dart HTML CSS
 
 # 💻 Programs That I Use
-Unity Visual Studio 2022 Visual Studio Code Visual Studio PyCharm CE Inkscape GIMP
+Unity, Visual Studio, PyCharm, Inkscape, GIMP, Blender
 
 <!--
 **romaeee/romaeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
