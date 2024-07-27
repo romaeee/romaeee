@@ -7,7 +7,7 @@
 Hello! My name is Roman aka Gulbrandr. Here are a few more things...
 
 # 📬 Connect With Me 
-[YouTube]([https://www.youtube.com/channel/UCX8hGRNHR2Gds91O0maziSg])
+[YouTube](https://www.youtube.com/channel/UCX8hGRNHR2Gds91O0maziSg)
 [Twitter](https://twitter.com/gulbrandr1)
 [LinkedIn](https://www.linkedin.com/in/roman-gerkin-86ab1a266)
 [Instagram](https://www.instagram.com/yourusername)
